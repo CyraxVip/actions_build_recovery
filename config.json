@@ -2,7 +2,7 @@
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp",
   "twrp_branch": "twrp-12.1",
   "git_username": "CyraxVip",
-  "git_email": "phuochau.251293@gmail.com",
+  "git_email": "128605688+CyraxVip@users.noreply.github.com",
   "use_own_dt": true,
   "dt_url": "CyraxVip/exynos3830-a21s-twrp",
   "dt_branch": "android-12.1",
